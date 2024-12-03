@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Project\Pothichoru\pothichoru.client\obj\Debug\pothichoru.client.esproj.CoreCompileInputs.cache
-D:\Project\Pothichoru\pothichoru.client\obj\Debug\pothichoru.client.esproj.CoreCompileInputs.cache
