@@ -36,7 +36,7 @@ const EnquiriesComponent = () => {
            backgroundClip:"text",
            WebkitBackgroundClip:"text",
            textAlign:"center"
-        }}>Our Donators</h1>
+        }}>Enquiries</h1>
 
   </header>
  <section>

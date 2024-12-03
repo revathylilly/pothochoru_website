@@ -80,7 +80,7 @@ const HomeComponent = () => {
     </Card>
 
     { 
-       userInfo.email ? <div> 
+       userInfo ? <div> 
         <div style={{
            fontSize:"30px",
            fontWeight:"600px",
